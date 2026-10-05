@@ -2,4 +2,4 @@
 
 Landing page responsiva para a pastelaria O Senhor dos Pastéis.
 
-Arquivos do site e assets publicados pela Vercel ficam em `dist/`.
+O site está em `dist/`; a configuração `vercel.json` aponta a publicação para essa pasta.
